@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
 int main()
-{   int n=8;
+{  
 	int eng,math,chem,phy,urd,isl,pakstd;
-	cout<<"enter number of subjects";
-	cout<<"\t"<<n<<"\n";
+	
 	cout<<"==================================="<<endl;
 	cout<<"English:";
 	cin>>eng;
