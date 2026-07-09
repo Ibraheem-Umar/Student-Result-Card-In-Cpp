@@ -2,25 +2,25 @@
 
 A C++ console application that calculates and generates academic result sheets for F.Sc (Part 1 & 2) students, featuring variable subject weightage, percentage calculations, and automated grading logic.
 
-## 🚀 Features
+## Features
 - **Variable Subject Weightage:** Supports standard F.Sc marks distribution (200 marks for core subjects, 50 marks for Islamiyat and Pakistan Studies).
 - **Automated Metrics Calculation:** Computes total obtained marks, overall percentage, and passing status.
 - **Dynamic Grading Engine:** Uses an efficient conditional structure to assign grades (A+, A, B, C, etc.) based on overall performance thresholds.
 - **Formatted Console Output:** Generates a structured tabular report card directly in the terminal interface.
 
-## 📐 Marks Distribution Logic
+##  Marks Distribution Logic
 The application enforces the following academic criteria:
 - **Core Subjects:** 200 Max Marks (Combined Part 1 & 2)
 - **Islamiyat / Pakistan Studies:** 50 Max Marks
 - **Passing Threshold:** Standard academic passing criteria applied to final aggregate metrics.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 - **Language:** C++ (C++11 or higher)
 - **Paradigm:** Procedural programming with structured logic, input validation arrays, and loops.
 - **Compiler/IDE:** Compatible with GCC, Clang, MSVC, and Dev-C++ / VS Code.
 
-## 💻 Sample Terminal Output
-
+##  Sample Terminal Output
+```text
 ===================================
 English:145
 Maths:133
